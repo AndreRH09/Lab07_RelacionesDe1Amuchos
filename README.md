@@ -66,11 +66,6 @@
 
 ## OBJETIVOS TEMAS Y COMPETENCIAS
 
-### OBJETIVOS
-
-- **Implementar** una aplicación en Django utilizando una plantilla profesional.
-- Utilizar una tabla de Destinos turísticos para leer y completar la página web.
-- Utilizar los tags “if” y “for” en los archivos html para leer todos los registros de una tabla desde una base de datos.
 
 ### TEMAS
 
@@ -101,24 +96,6 @@
 4. Envio de emails
 
 
-#
-
-## Ejercicios Propuestos
-
-1. Deberán replicar la actividad del video donde se obtiene una plantilla de
-   una aplicación de Destinos turísticos y adecuarla a un proyecto en blanco
-   Django.
-
-2. Luego trabajar con un modelo de tabla Destinos Turisticos donde se
-   guarden nombreCiudad, descripcion Ciudad, imagenCiudad, precioTour,
-   ofertaTour (booleano). Estos destinos turísticos deberán ser agregados
-   en una vista dinámica utilizando tags for e if.
-
-3. Crear formularios de Añadir Destinos Turísticos, Modificar, Listar y Eliminar Destinos.
-4. Eres libre de agregar CSS para decorar tu trabajo.
-
-5. Ya sabes que el trabajo con Git es obligatorio. Revisa el avance de la
-   teoría Django parte4
 
 #
 
