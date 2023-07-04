@@ -66,6 +66,11 @@
 
 ## OBJETIVOS TEMAS Y COMPETENCIAS
 
+### OBJETIVOS
+
+- **Implementar** una aplicación en Django utilizando una plantilla profesional.
+- Utilizar una tabla de Destinos turísticos para leer y completar la página web.
+- Utilizar los tags “if” y “for” en los archivos html para leer todos los registros de una tabla desde una base de datos.
 
 ### TEMAS
 
@@ -96,8 +101,18 @@
 4. Envio de emails
 
 
+# Desarrollo de los videos
 
-#
+- Se inicia cambiando la base de datos para no interferir o tener conflictos con el proyecto anterior
+
+![Relacion](imgs/NuevaBD.png)
+
+
+## Relacion 1 a muchos
+
+- Como se explica en el video, la interelacion entre tablas es necesario para un proyecto. De esta forma se puede trabajar con la base de datos relativamente relacionada.
+
+![Relacion](imgs/RelacionUNOaMuchos.png)
 
 ## REFERENCIAS
 
