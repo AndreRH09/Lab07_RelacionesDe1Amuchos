@@ -1,0 +1,14 @@
+{% extends 'base.html' %} {% block content %}
+<h1>
+  Saludos Pweb2 desde Django . Tambien se usa un diccionario de contexto con un
+  Nombre: {{name}}
+</h1>
+
+<form action="add" method="post">
+  {% csrf_token %} ingrese el 1er numero:
+  <input type="text" name="num1" /><br />
+  ingrese el 2do numero: <input type="text" name="num2" /><br />
+  <input type="submit" />
+</form>
+
+{% endblock %}
