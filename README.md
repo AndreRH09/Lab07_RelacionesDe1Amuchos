@@ -168,8 +168,8 @@
 
 - Se utilizo el tutorial y codigo de [TutorialHTML2PDF](https://www.codingforentrepreneurs.com/blog/html-template-to-pdf-in-django/).
 
-- Se descargo las dependencias pip install --pre xhtml2pdf 
-- Se modifico el codigo 
+1. Se descargo las dependencias pip install --pre xhtml2pdf 
+2. Se modifico el codigo 
 
 ![Relacion](imgs/pdf/Captura%20de%20pantalla%202023-07-09%20105412.png)
 
@@ -193,6 +193,14 @@
 
 ![Relacion](imgs/gitcommit5.png)
 
+### Django_Emails
+
+- Se utilizo el tutorial y codigo de [TutorialHTML2PDF](https://www.youtube.com/watch?v=X7DWErkNVJs).
+
+- Se descargo las dependencias pip install --pre xhtml2pdf 
+- Se modifico el codigo 
+
+![Relacion](imgs/pdf/Captura%20de%20pantalla%202023-07-09%20105412.png)
 
 
 ## REFERENCIAS
