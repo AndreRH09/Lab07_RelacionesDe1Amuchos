@@ -164,6 +164,19 @@
 ![Relacion](imgs/gitcommit3.png)
 
 
+### Query Relacion 1 a muchos
+
+- Se realizo un filtrado con distintos parametros para probar la funcionalidad en esta relacion.
+
+
+![Relacion](imgs/query2.png)
+
+- Se evidencia los commits hasta este paso
+
+![Relacion](imgs/gitcomit4.png)
+
+
+
 ## REFERENCIAS
 
 - https://www.w3schools.com/python/python_reference.asp
