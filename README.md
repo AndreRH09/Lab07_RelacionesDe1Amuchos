@@ -125,8 +125,24 @@
 ![Relacion](imgs/database2.png)
 
 - Se evidencia los commits hasta este paso
- 
+
 ![Relacion](imgs/gitcommit1.png)
+
+### Query Relacion 1 a muchos
+
+- Se realizo un filtrado con distintos parametros para probar la funcionalidad de la base de datos.
+
+
+![Relacion](imgs/newFrameworks.png)
+
+![Relacion](imgs/newLang.png)
+
+![Relacion](imgs/query1.png)
+
+- Se evidencia los commits hasta este paso
+
+![Relacion](imgs/gitcommit1.png)
+
 
 ## REFERENCIAS
 
