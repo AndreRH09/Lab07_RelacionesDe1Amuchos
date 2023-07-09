@@ -161,7 +161,7 @@
 
 - Se evidencia los commits hasta este paso
 
-![Relacion](imgs/gitcommit1.png)
+![Relacion](imgs/gitcommit3.png)
 
 
 ## REFERENCIAS
