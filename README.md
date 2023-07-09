@@ -141,6 +141,26 @@
 
 - Se evidencia los commits hasta este paso
 
+![Relacion](imgs/gitcommit2.png)
+
+
+## Relacion de Mucho  a muchos
+
+- Se crean 2 modelos, para que formen parte de la tabla en la base de datos Movie/Character
+- Se establece su relacion con **models.ManyToManyField** 
+- Se agregan desde el admin site
+
+![Relacion](imgs/relacionMuchoAMuchos.png)
+
+
+![Relacion](imgs/addChar.png)
+
+![Relacion](imgs/addMovies.png)
+
+![Relacion](imgs/database3.png)
+
+- Se evidencia los commits hasta este paso
+
 ![Relacion](imgs/gitcommit1.png)
 
 
