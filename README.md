@@ -111,8 +111,22 @@
 ## Relacion 1 a muchos
 
 - Como se explica en el video, la interelacion entre tablas es necesario para un proyecto. De esta forma se puede trabajar con la base de datos relativamente relacionada.
+- Se crean 2 modelos, para que formen parte de la tabla en la base de datos Language/framework
+- Se establece la relacion 1 a muchos entre lenguaje y framework
+- Se Agrega desde el admin site (tambien es posible agregarlo desde el shell de python)
 
-![Relacion](imgs/RelacionUNOaMuchos.png)
+![Relacion](imgs/Realacion1Muchos.png)
+
+
+![Relacion](imgs/addFrameworks.png)
+
+![Relacion](imgs/database1.png)
+
+![Relacion](imgs/database2.png)
+
+- Se evidencia los commits hasta este paso
+ 
+![Relacion](imgs/gitcommit1.png)
 
 ## REFERENCIAS
 
