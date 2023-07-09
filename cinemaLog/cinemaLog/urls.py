@@ -16,9 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-
+from .views import GeneratePDF
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('movie.urls'))
+    path('', include('movie.urls')),
+    path(r'pdf/',GeneratePDF.as_view()),
 ]

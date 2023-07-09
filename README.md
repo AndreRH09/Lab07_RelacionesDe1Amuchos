@@ -164,16 +164,34 @@
 ![Relacion](imgs/gitcommit3.png)
 
 
-### Query Relacion 1 a muchos
+### Html2PDF
 
-- Se realizo un filtrado con distintos parametros para probar la funcionalidad en esta relacion.
+- Se utilizo el tutorial y codigo de [TutorialHTML2PDF](https://www.codingforentrepreneurs.com/blog/html-template-to-pdf-in-django/).
 
+- Se descargo las dependencias pip install --pre xhtml2pdf 
+- Se modifico el codigo 
 
-![Relacion](imgs/query2.png)
+![Relacion](imgs/pdf/Captura%20de%20pantalla%202023-07-09%20105412.png)
+
+![Relacion](imgs/pdf/Captura%20de%20pantalla%202023-07-09%20112038.png)
+
+- Como resultado se paso de una renderizacion de HTML a PDF
+
+![Relacion](imgs/pdf/HTML2pdf.png)
+
+![Relacion](imgs/pdf/renderPdf.png)
+
+- Finalmente se modifica la respuesta del renderizado para que se pueda descargar el pdf usando unicamente el condicional *download* 
+
+![Relacion](imgs/pdf/descarga.png)
+
+- Se puede ver que el contenido del archivo descargado es el mismo que el renderizado, por lo que hay un correcto flujo de datos.
+
+![Relacion](imgs/pdf/localPDF.png)
 
 - Se evidencia los commits hasta este paso
 
-![Relacion](imgs/gitcomit4.png)
+![Relacion](imgs/gitcommit5.png)
 
 
 
