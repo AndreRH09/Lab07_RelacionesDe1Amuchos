@@ -4,6 +4,8 @@ from django.template.loader import get_template
 
 from .utils import render_to_pdf
 
+
+
 class GeneratePDF(View):
     def get(self, request,*args, **kawrgs):
         template=get_template('invoice.html')
