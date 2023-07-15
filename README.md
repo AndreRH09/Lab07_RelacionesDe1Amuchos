@@ -66,8 +66,6 @@
 
 ## OBJETIVOS TEMAS Y COMPETENCIAS
 
-### OBJETIVOS
-
 - **Implementar** una aplicación en Django utilizando una plantilla profesional.
 - Utilizar una tabla de Destinos turísticos para leer y completar la página web.
 - Utilizar los tags “if” y “for” en los archivos html para leer todos los registros de una tabla desde una base de datos.
