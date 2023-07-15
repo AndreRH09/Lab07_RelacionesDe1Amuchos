@@ -128,6 +128,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 EMAIL_HOST = 'smtp.hushmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'aanazcoh@unsa.edu.pe'
-EMAIL_HOST_PASSWORD = 'Alfiltorre8'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
